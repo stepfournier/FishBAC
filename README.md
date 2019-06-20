@@ -1,2 +1,2 @@
-# FishBAC
+# FishBAC repository
 Collection of publicly available research outputs on the Fish Bone Active Camber concept
